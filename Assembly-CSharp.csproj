@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Coin\Coin.cs" />
     <Compile Include="Assets\GameManager\Timer.cs" />
+    <Compile Include="Assets\Scripts\VariableScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/private/var/root/Documents/Unity/Tutorials/Udemy1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
