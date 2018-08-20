@@ -17,9 +17,18 @@
 
 ![Portfolio Preview1](https://raw.githubusercontent.com/pcesarmx/unity-3d/master/Previews/preview3.png)
 
+## [DEMO HERE](https://raw.githubusercontent.com/pcesarmx/unity-3d/master/dist/demo/index.html)
+
+### Controller
+
+* **Arrow keys** - Walk
+* **Left shift (Hold)** - Run
+* **Space bar** - Jump
+* **Mouse** - Move first person camera.
 
 ## License
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pcesarmx/unity-3d/blob/master/LICENSE)
+
 
 ## Download and Installation
 Pending ...

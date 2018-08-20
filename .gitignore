@@ -4,3 +4,7 @@ obj/
 3dScene1.sublime-project
 3dScene1.sublime-workspace
 *.log
+Library/ShaderCache/
+Library/*_cache*
+Library/LastBuild.buildreport
+Library/PlayerDataCache/
