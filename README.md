@@ -19,13 +19,17 @@
 
 ## [DEMO HERE](http://webgl1.pruvalcaba.com/index.html)
 
-### Controller
+### * Collect the 3 yellow coins in the 3d stage to see some fireworks on the sky.
+
+## Controller
 
 * **Arrow keys** - Walk
 * **Left shift (Hold)** - Run
 * **Space bar** - Jump
 * **Mouse** - Move first person camera.
 * **ESC** - Show mouse pointer
+
+* Go to **"full-screen mode"**  to see minimap in real time.
 
 ## License
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pcesarmx/unity-3d/blob/master/LICENSE)
