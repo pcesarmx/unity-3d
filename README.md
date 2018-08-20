@@ -17,7 +17,7 @@
 
 ![Portfolio Preview1](https://raw.githubusercontent.com/pcesarmx/unity-3d/master/Previews/preview3.png)
 
-## [DEMO HERE](https://raw.githubusercontent.com/pcesarmx/unity-3d/master/dist/demo/index.html)
+## [DEMO HERE](http://htmlpreview.github.io/?https://raw.githubusercontent.com/pcesarmx/unity-3d/master/dist/demo/index.html)
 
 ### Controller
 
@@ -25,6 +25,7 @@
 * **Left shift (Hold)** - Run
 * **Space bar** - Jump
 * **Mouse** - Move first person camera.
+* **ESC** - Show mouse pointer
 
 ## License
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pcesarmx/unity-3d/blob/master/LICENSE)
