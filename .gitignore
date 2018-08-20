@@ -8,3 +8,4 @@ Library/ShaderCache/
 Library/*_cache*
 Library/LastBuild.buildreport
 Library/PlayerDataCache/
+dist/demo/_tmp/

@@ -17,7 +17,7 @@
 
 ![Portfolio Preview1](https://raw.githubusercontent.com/pcesarmx/unity-3d/master/Previews/preview3.png)
 
-## [DEMO HERE](http://htmlpreview.github.io/?https://raw.githubusercontent.com/pcesarmx/unity-3d/master/dist/demo/index.html)
+## [DEMO HERE](http://webgl1.pruvalcaba.com/index.html)
 
 ### Controller
 
